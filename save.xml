@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persons>
+    <person>
+        <birthday>2000-05-18</birthday>
+        <city>la ville rose</city>
+        <firstName>Jean</firstName>
+        <lastName>Dupuis</lastName>
+        <postalCode>31100</postalCode>
+        <street>rue sans fond</street>
+    </person>
+    <person>
+        <birthday>1999-02-21</birthday>
+        <city>some city</city>
+        <firstName>Julia</firstName>
+        <lastName>Lyon</lastName>
+        <postalCode>1234</postalCode>
+        <street>some street</street>
+    </person>
+    <person>
+        <birthday>1999-02-21</birthday>
+        <city>some city</city>
+        <firstName>Anette</firstName>
+        <lastName>Marseille</lastName>
+        <postalCode>1234</postalCode>
+        <street>some street</street>
+    </person>
+    <person>
+        <birthday>1990-02-21</birthday>
+        <city>Poitiers</city>
+        <firstName>Hervé</firstName>
+        <lastName>Marshal</lastName>
+        <postalCode>86000</postalCode>
+        <street>rue la fayette</street>
+    </person>
+    <person>
+        <birthday>1975-12-15</birthday>
+        <city>Pau</city>
+        <firstName>Bob</firstName>
+        <lastName>Maurane</lastName>
+        <postalCode>64000</postalCode>
+        <street>rue jacquard</street>
+    </person>
+    <person>
+        <birthday>1999-02-21</birthday>
+        <city>some city</city>
+        <firstName>Stéphane</firstName>
+        <lastName>Pau</lastName>
+        <postalCode>1234</postalCode>
+        <street>some street</street>
+    </person>
+    <person>
+        <birthday>1999-02-21</birthday>
+        <city>some city</city>
+        <firstName>Thomas</firstName>
+        <lastName>Poitiers</lastName>
+        <postalCode>1234</postalCode>
+        <street>some street</street>
+    </person>
+    <person>
+        <birthday>1999-02-21</birthday>
+        <city>some city</city>
+        <firstName>Anna</firstName>
+        <lastName>Rennes</lastName>
+        <postalCode>1234</postalCode>
+        <street>some street</street>
+    </person>
+    <person>
+        <birthday>1999-02-21</birthday>
+        <city>some city</city>
+        <firstName>Tea</firstName>
+        <lastName>Strasbourg</lastName>
+        <postalCode>1234</postalCode>
+        <street>some street</street>
+    </person>
+    <person>
+        <birthday>2013-01-01</birthday>
+        <city>Toulouse</city>
+        <firstName>Gao</firstName>
+        <lastName>Tian</lastName>
+        <postalCode>31000</postalCode>
+        <street>rue sans Adsl</street>
+    </person>
+    <person>
+        <birthday>1999-02-21</birthday>
+        <city>some city</city>
+        <firstName>Tristan</firstName>
+        <lastName>Toulouse</lastName>
+        <postalCode>1234</postalCode>
+        <street>some street</street>
+    </person>
+</persons>
